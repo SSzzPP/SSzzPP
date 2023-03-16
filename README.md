@@ -53,7 +53,6 @@
 
 
 <p align="center">
-  <br><br>
   <samp>
     <!-- <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center"> -->
     <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
