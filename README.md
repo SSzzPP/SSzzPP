@@ -37,7 +37,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sszzpp&theme=transparent" alt="sszzpp" /></p>
 
-<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sszzpp&theme=github" alt="sszzpp" /></p>
+<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sszzpp&theme=tokyo-night" alt="sszzpp" /></p>
 
 <details>
   <summary><b>:telescope: 2023 goal</b><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" /></summary>
