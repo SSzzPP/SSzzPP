@@ -37,7 +37,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sszzpp&" alt="sszzpp" /></p>
 
-##### GitHub status
+<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sszzpp&theme=github" alt="sszzpp" /></p>
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=sszzpp&theme=github)
 
