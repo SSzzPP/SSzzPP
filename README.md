@@ -48,6 +48,13 @@
   <br><br>
   <samp>
     <a href="https://www.buymeacoffee.com/sszzpp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+  </samp>
+</p>
+
+
+<p align="center">
+  <br><br>
+  <samp>
     <!-- <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center"> -->
     <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   </samp>
