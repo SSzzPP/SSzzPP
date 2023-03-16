@@ -38,7 +38,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sszzpp&" alt="sszzpp" /></p>
 
 <details>
-  <summary><b>:telescope: 2023 goal</b></summary>
+  <summary><b>:telescope: 2023 goal</b><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" /></summary>
    learn about and design for governance — try to make web3 easier to use and understand.
 </details>
 
