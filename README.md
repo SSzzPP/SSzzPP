@@ -44,13 +44,14 @@
    learn about and design for governance — try to make web3 easier to use and understand.
 </details>
 
+![](https://raw.githubusercontent.com/SSzzPP/SSzzPP/main/assets/github-contribution-grid-snake.svg)
+
 <p align="center">
   <br><br>
   <samp>
     <a href="https://www.buymeacoffee.com/sszzpp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
   </samp>
 </p>
-
 
 <p align="center">
   <samp>
