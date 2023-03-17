@@ -45,6 +45,7 @@
 </details>
 
 ![](https://raw.githubusercontent.com/SSzzPP/SSzzPP/main/assets/github-contribution-grid-snake.svg)
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/SSzzPP/SSzzPP/assets/github-contribution-grid-snake.svg" /></div>
 
 <p align="center">
   <br><br>
