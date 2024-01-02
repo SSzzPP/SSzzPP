@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [Web3 Wallet](https://github.com/SSzzPP/react-native-wallet)
 
-- 🌱 I’m currently learning **Smart Contract, Dapp**
+- 🌱 I’m currently learning **Smart Contract, Dapp, AI**
 
 - 👯 I’m looking to collaborate on [Metamask](https://github.com/MetaMask/metamask-mobile)
 
@@ -79,6 +79,10 @@
 <details>
   <summary><b>:telescope: 2023 goal</b><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" /></summary>
    <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> learn about and design for governance — try to make web3 easier to use and understand.
+</details>
+<details>
+  <summary><b>:telescope: 2024 goal</b><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" /></summary>
+   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> learn about AI - developing AI robots, AI tools, etc.
 </details>
 
 <p align="center">
