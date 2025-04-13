@@ -103,7 +103,7 @@
 <details>
   <summary><b>:telescope: Keep coding, stay innovative, and build future</b><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" /></summary>
 
-<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> Learn about and design for governance — Focused on making web3 easier to use and understand.
+<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> Learn about and design for governance — Focused on making web3 easier to use and understand.<br/>
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> Learn about AI - Developing AI robots, AI tools, etc.
 
 </details>
