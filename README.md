@@ -12,11 +12,11 @@
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=SSzzPP&label=Profile%20views&color=blueviolet&style=flat" alt="SSzzPP" />
 <!-- <a href="https://github.com/SSzzPP"><img src="https://img.shields.io/static/v1?logo=github&label=Maintainer&message=SSzzPP&color=ff3300&style=flat" alt="SSzzPP" /></a> -->
-<!--   <a href="https://twitter.com/sszzpp6" target="blank"><img src="https://img.shields.io/twitter/follow/sszzpp6" alt="sszzpp6" /></a> --> </p>
+<!--   <a href="https://twitter.com/svip_vision" target="blank"><img src="https://img.shields.io/twitter/follow/svip_vision" alt="svip_vision" /></a> --> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SSzzPP&theme=darkhub" alt="SSzzPP" /></a> </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/sszzpp6" target="blank"><img src="https://img.shields.io/twitter/follow/sszzpp6" alt="sszzpp6" /></a> </p> -->
+<!-- <p align="left"> <a href="https://twitter.com/svip_vision" target="blank"><img src="https://img.shields.io/twitter/follow/svip_vision" alt="svip_vision" /></a> </p> -->
 
 <table width="100%"> <tr> <td valign="middle" width="60%"><p></p>
 
@@ -38,7 +38,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sszzpp6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="huseyindeniz_" height="30" width="40" /></a>
+<a href="https://twitter.com/svip_vision" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="huseyindeniz_" height="30" width="40" /></a>
 <a href="https://medium.com/@svip.vision" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@huseyin.deniz" height="30" width="40" /></a>
 <a href="mailto:svip.vision@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="hüseyindenizz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@sszzpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hüseyindenizz" height="30" width="40" /></a>
