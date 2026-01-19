@@ -14,7 +14,7 @@
 <!-- <a href="https://github.com/SSzzPP"><img src="https://img.shields.io/static/v1?logo=github&label=Maintainer&message=SSzzPP&color=ff3300&style=flat" alt="SSzzPP" /></a> -->
 <!--   <a href="https://twitter.com/svip_vision" target="blank"><img src="https://img.shields.io/twitter/follow/svip_vision" alt="svip_vision" /></a> --> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SSzzPP&theme=darkhub" alt="SSzzPP" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=SSzzPP&theme=darkhub" alt="SSzzPP" /></a> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/svip_vision" target="blank"><img src="https://img.shields.io/twitter/follow/svip_vision" alt="svip_vision" /></a> </p> -->
 
@@ -52,7 +52,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sszzpp&custom_title=Github%20Stats&show_icons=true&locale=en&theme=transparent" alt="sszzpp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sszzpp&theme=transparent" alt="sszzpp" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=sszzpp&theme=transparent" alt="sszzpp" /></p>
 
 <!-- <p>
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sszzpp&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=transparent&color=3379BE&line=286CF6&point=286CF6&area_color=286CF6" alt="sszzpp" />
