@@ -20,7 +20,7 @@
 
 <table width="100%"> <tr> <td valign="middle" width="60%"><p></p>
 
-- 🔭 I’m currently working on [mistral-ocr-bot](https://github.com/SSzzPP/mistral-ocr-bot)
+- 🔭 I’m currently working on [movecar-telegram](https://github.com/SSzzPP/movecar-telegram)
 
 - 🌱 I’m currently learning **AI, Neural networks**
 
@@ -41,7 +41,7 @@
 <a href="https://twitter.com/svip_vision" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="huseyindeniz_" height="30" width="40" /></a>
 <a href="https://medium.com/@svip.vision" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@huseyin.deniz" height="30" width="40" /></a>
 <a href="mailto:svip.vision@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="hüseyindenizz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@sszzpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hüseyindenizz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@svip.vision" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hüseyindenizz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
